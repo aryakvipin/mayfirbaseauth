@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767903623086",
+    "project_id": "firbaseauth-2a09a",
+    "storage_bucket": "firbaseauth-2a09a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767903623086:android:5bf90f879263010b1dca3f",
+        "android_client_info": {
+          "package_name": "com.example.mayfirbaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYZwcxsA8g3UkjJfPviF1_77Np-Hzk3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
